@@ -1,7 +1,8 @@
 package bangunruang;
 
 public class Kubus {
-    public int  = 0;
+    public int r = 0;
+    public final float PI = 22.0f/7;
     public float volume = 0;
 
     public void hitungVolumeBola(){
